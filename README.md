@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daanish Uppal</h1>
-<h3 align="center">A passionate software developer, always eager to learn new trends and exhuberant skills :)</h3>
+<h3 align="center">A passionate software developer, always eager to learn new trends and exhubarant skills :)</h3>
 <img align="right" alt="Coding" width="400" src="https://33.media.tumblr.com/2d28c4b415c024966a87d0a5ff0b8b6d/tumblr_mu6zgofBOj1s423woo1_500.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daanishuppal&label=Profile%20views&color=0e75b6&style=flat" alt="daanishuppal" /> </p>
